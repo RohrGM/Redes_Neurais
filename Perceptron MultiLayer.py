@@ -22,7 +22,7 @@ wgt1 = 2 * np.random.random((2,3)) - 1
 wgt2 = 2 * np.random.random((3,1)) - 1
                  
 time = 100000
-learningRate = .3
+learningRate = .5
 momentun = 1
 
 def sigmoid(s):
